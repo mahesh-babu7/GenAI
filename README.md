@@ -1,1 +1,1 @@
-# GenAI
+GENAI is a comprehensive project showcasing the power of Generative AI technologies. It integrates cutting-edge models to generate text, images, and other creative content based on user input. This repository is designed for developers, researchers, and enthusiasts who want to explore the practical applications of GenAI in real-world scenarios.
