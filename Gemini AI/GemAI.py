@@ -4,7 +4,7 @@ import google.generativeai as genai
 from PIL import Image
 
 # 🔐 Hardcode your API key (⚠️ keep this secret!)
-os.environ["GEMINI_API_KEY"] = "AIzaSyDmqSorG6iMHKaLFQNEIM-08LgkLbGneHo"
+os.environ["GEMINI_API_KEY"] = "Enter Your Key"
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
 # UI Setup
